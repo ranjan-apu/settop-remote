@@ -1,0 +1,8 @@
+# Local build and testing outputs
+/outputs/
+/work/
+
+# macOS and editor files
+.DS_Store
+*.swp
+*.xcuserstate
