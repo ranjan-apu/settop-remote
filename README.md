@@ -2,6 +2,12 @@
 
 A lightweight, native macOS menu-bar remote for Android TV and Google TV boxes on the same local network. Built with Objective-C++ (C++17 + AppKit). No Electron, JavaScript runtime, or bundled browser.
 
+## Preview
+
+[![SetTop Remote showing TV discovery, trackpad navigation, and pointer mode](docs/screenshots/overview.webp)](docs/screenshots/overview.webp)
+
+Explore each screen: [Discover](docs/screenshots/discovery.png) · [Trackpad](docs/screenshots/trackpad.png) · [Pointer](docs/screenshots/pointer.png). Screenshots use example TV names and addresses.
+
 ## Use
 
 1. Install Android Platform Tools (`brew install android-platform-tools`). The app uses your installed `adb` command.
